@@ -1,1 +1,3 @@
 # Nostalgia
+<p>This simple text-based adventure game allows the player to make choices and explore different paths, evoking the feel of classic adventure games. </p>
+<p>This Python code defines a simple text-based adventure game where the player explores different paths (left, right, or straight) and encounters various scenarios, such as discovering an old library, a hidden garden with a well, or entering a dark cave. The player's choices influence the unfolding narrative, aiming to evoke nostalgia for classic adventure games. The code utilizes the time module for brief pauses to enhance the storytelling effect.</p>
